@@ -1,5 +1,4 @@
 <configuration>
 	<include resource="org/springframework/boot/logging/logback/base.xml"/>
 	<jmxConfigurator/>
-	<logger name="org.apache.zookeeper" level="INFO"/>
 </configuration>
